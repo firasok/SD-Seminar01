@@ -1,0 +1,26 @@
+{
+  "id": "7dc7ad3d-4e54-45ce-9ddd-4cf03ed9f721",
+  "name": "SD01 Seminar",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.1",
+  "showMyCode": true,
+  "features": ["TranslationFile"],
+  "target": "Internal"
+}
