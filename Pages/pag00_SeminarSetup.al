@@ -15,7 +15,7 @@ page 50100 "CSD Seminar Setup"
             group(Numbering)
             {
                 field("Seminar Nos."; "Seminar Nos.")
-                {
+                {                    
                 }
                 field("Seminar Registration Nos."; "Seminar Registration Nos.")
                 {

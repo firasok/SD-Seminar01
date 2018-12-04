@@ -7,7 +7,7 @@ page 50101 "CSD Seminar Card"
     Caption = 'Seminar Card';
     layout
     {
-        area(content)
+        area(Content)
         {
             group(General)
             {
